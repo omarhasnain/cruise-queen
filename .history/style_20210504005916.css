@@ -154,4 +154,5 @@ a.active {
 #image {
     max-width: 100%;
     max-height: none;
+    background-image: transparent;
 }

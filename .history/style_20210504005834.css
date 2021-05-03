@@ -149,9 +149,11 @@ a.active {
 #confirmation-message {
     padding: 50px;
     display: none;
+    background-color: transparent;
 }
 
 #image {
     max-width: 100%;
     max-height: none;
+    background-image: transparent;
 }

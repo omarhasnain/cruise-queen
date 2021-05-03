@@ -149,6 +149,7 @@ a.active {
 #confirmation-message {
     padding: 50px;
     display: none;
+    background-color: whitesmoke;
 }
 
 #image {
